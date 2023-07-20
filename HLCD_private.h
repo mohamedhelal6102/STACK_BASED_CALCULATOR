@@ -1,10 +1,3 @@
-/*
- * HLCD_private.h
- *
- * Created: 21-Feb-23 03:28:08
- *  Author: Ahmed Abdelmonem
- */ 
-
 
 #ifndef HLCD_PRIVATE_H_
 #define HLCD_PRIVATE_H_
