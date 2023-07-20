@@ -1,9 +1,4 @@
-/*
- * HLCD_config.h
- *
- * Created: 18-Feb-23 19:45:23
- *  Author: Ahmed Abdelmonem
- */ 
+
 
 
 #ifndef HLCD_CONFIG_H_
