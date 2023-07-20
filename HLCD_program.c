@@ -1,10 +1,5 @@
-/*
- * HLCD_program.c
- *
- * Created: 18-Feb-23 19:46:04
- *  Author: Ahmed Abdelmonem
- */
-/*#include "HLCD_config.h"
+
+#include "HLCD_config.h"
 #include "HLCD_interface.h"
 #include "../../Libraries_/LIB_STDTypes.h"
 #include "../../Libraries_/LIB_BMNP.h"
