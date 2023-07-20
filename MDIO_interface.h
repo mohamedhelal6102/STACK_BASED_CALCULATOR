@@ -1,9 +1,4 @@
-/*
- * MDIO_interface.h
- *
- * Created: 2/4/2023 9:43:20 PM
- *  Author: DELL 5480
- */ 
+
 
 #ifndef MDIO_INTERFACE_H_
 #define MDIO_INTERFACE_H_
