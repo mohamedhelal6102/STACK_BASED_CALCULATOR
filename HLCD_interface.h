@@ -1,9 +1,3 @@
-/*
- * HLCD_interface.h
- *
- * Created: 18-Feb-23 19:45:37
- *  Author: Ahmed Abdelmonem
- */
 
 /*#include "HLCD_config.h"
 #include "../../Libraries_/LIB_STDTypes.h"
