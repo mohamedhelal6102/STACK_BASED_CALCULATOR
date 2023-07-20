@@ -1,9 +1,3 @@
-/*
- * MDIO_config.h
- *
- * Created: 2/4/2023 9:44:29 PM
- *  Author: DELL 5480
- */ 
 
 
 #ifndef MDIO_CONFIG_H_
