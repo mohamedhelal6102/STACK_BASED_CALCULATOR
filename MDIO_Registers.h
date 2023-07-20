@@ -1,9 +1,3 @@
-/*
- * MDIO_Registers.h
- *
- * Created: 2/4/2023 9:43:47 PM
- *  Author: DELL 5480
- */ 
 
 #ifndef MDIO_REGISTERS_H_
 #define MDIO_REGISTERS_H_
