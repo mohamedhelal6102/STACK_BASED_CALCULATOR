@@ -1,9 +1,3 @@
-/*
- * MDIO_program.c
- *
- * Created: 2/4/2023 9:42:42 PM
- * Author: DELL 5480
- */ 
 
 #include "../../Libraries_/LIB_STDTypes.h"
 #include "../../Libraries_/LIB_BMNP.h"
